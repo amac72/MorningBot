@@ -1,11 +1,8 @@
 # MorningBot
 MorningBot is a Discord bot written in Python that provides a daily informational report.
 
-**Current Output**:
-```
-Good Morning!
-Today is {Month} {Day}, {Year}.
-```
+**Current Output Every Morning**:
+<img width="860" alt="GoodMorning" src="https://user-images.githubusercontent.com/93621884/151721860-3da410f9-6382-49a8-8833-30a6935c4264.png">
 
 ## Table of Contents
 1. Getting Started on the Discord Developer Portal
@@ -30,7 +27,7 @@ Note: Before continuing, make sure to create a Discord server that the bot can j
 9. Continue and click "Authorize".
 
 ## Initial Setup (Python)
-Python will need to be installed in order to run the program. In this instance, [Python 3.9](https://www.python.org/downloads/release/python-396/) was used. If using MacOS, navigating to the 3.x (in this instance, 3.9) application file and clicking on "Install Certificates.command" may be necessary to avoid an SSL certificate verification error. This may also be true when using a different operating system or Python version.
+Python will need to be installed in order to run the program. In this case, [Python 3.9](https://www.python.org/downloads/release/python-396/) was used. If using MacOS, navigating to the 3.x (in this instance, 3.9) application file and clicking on "Install Certificates.command" may be necessary to avoid an SSL certificate verification error. This may also be true when using a different operating system or Python version.
 
 "discord.py" needs to be downloaded as well, and can be done with the following command:
 
@@ -41,3 +38,7 @@ There are comments included in each file that provide more information.
 
 ## Additional Links
 Datetime module: https://docs.python.org/3/library/datetime.html
+
+Weather API: https://openweathermap.org/
+
+News API: https://newsapi.org/
