@@ -1,7 +1,7 @@
 # MorningBot
-MorningBot is a Discord bot written in Python that provides a daily informational report.
+MorningBot is a Discord bot written in Python that provides a daily informational report every morning. Additionally, weather and news can be accessed at any time and for any city/state/category using certain commands.
 
-**Current Output Every Morning**:
+**Example Output**:
 <img width="860" alt="GoodMorning" src="https://user-images.githubusercontent.com/93621884/151721860-3da410f9-6382-49a8-8833-30a6935c4264.png">
 
 ## Table of Contents
