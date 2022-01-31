@@ -37,6 +37,8 @@ Python will need to be installed in order to run the program. In this case, [Pyt
 "morningbot.py" can now be configured and used (along with other files in the repo) to send a daily informational report to the desired Discord server and channel.
 There are comments included in each file that provide more information.
 
+A ".env" file will also need to be created and include "DISCORD_TOKEN", "DISCORD_CHANNEL", "WEATHER", and "NEWS".
+
 ## Additional Links
 Datetime module: https://docs.python.org/3/library/datetime.html
 
